@@ -29,5 +29,5 @@ spec:
 	     name: go-hello.config
 	     key: port
 	- name: res.send
-	  value: Martiniano
+	  value: Carlos
 status: {}
